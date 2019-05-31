@@ -18,7 +18,7 @@ namespace WindowsFormsApp11.servicio
 
             return r;
         }
-        public static Compra Factory(TextBox texto1,TextBox texto2)
+        public static Compra Factory(TextBox texto1,NumericUpDown texto2)
         {
             Compra compra=new Compra(); 
             compra.Nombre=texto1.Text;

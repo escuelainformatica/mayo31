@@ -26,8 +26,8 @@ namespace WindowsFormsApp11
             string texto="aaa";
             Compra compra1=new Compra();
             Compra compra2 = new Compra();
-            compra1=CompraServicio.Factory(textBox1,textBox2);
-            compra2 = CompraServicio.Factory(textBox5, textBox4);
+            compra1=CompraServicio.Factory(textBox1,numericUpDown1);
+            compra2 = CompraServicio.Factory(textBox5, numericUpDown2);
 
             double total=CompraServicio.Sumar(compra1,compra2);
 
