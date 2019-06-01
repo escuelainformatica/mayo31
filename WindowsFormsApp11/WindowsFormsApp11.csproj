@@ -54,7 +54,7 @@
     </Compile>
     <Compile Include="modelo\Compra.cs" />
     <Compile Include="modelo\Nuevo.cs" />
-    <Compile Include="modelo\Ventas.cs" />
+    <Compile Include="modelo\PabloPelmar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="servicio\CompraServicio.cs" />
