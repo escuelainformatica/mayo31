@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp11.modelo
 {
-    class PabloPelmar
+    class PabloBelmar
     {
     }
 }
